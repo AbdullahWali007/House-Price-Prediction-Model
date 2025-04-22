@@ -1,5 +1,3 @@
----
-
 # House Price Prediction
 
 This project builds a **House Price Prediction** model using **Linear Regression** and **Polynomial Regression** techniques.  
@@ -78,9 +76,6 @@ The dataset contains house sale prices for King County, USA (including Seattle),
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-
----
-
 
 ---
 
