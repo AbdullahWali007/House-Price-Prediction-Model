@@ -66,7 +66,7 @@ The dataset contains house sale prices for King County, USA (including Seattle),
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/House_Price_Prediction.git
+   git clone https://github.com/AbdullahWali007/House_Price_Prediction.git
    ```
 2. Open the Jupyter Notebook:
    ```bash
