@@ -86,5 +86,5 @@ The dataset contains house sale prices for King County, USA (including Seattle),
 - Inspired by real estate price prediction projects.
 
 ---
-## AUTHUR:
+## AUTHOR:
 Muhammad Abdullah Wali
