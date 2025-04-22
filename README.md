@@ -79,9 +79,12 @@ The dataset contains house sale prices for King County, USA (including Seattle),
 
 ---
 
+
 ## 🙌 Acknowledgements
 
 - Dataset: [Kaggle - House Sales in King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction)
 - Inspired by real estate price prediction projects.
 
 ---
+## AUTHUR:
+Muhammad Abdullah Wali
